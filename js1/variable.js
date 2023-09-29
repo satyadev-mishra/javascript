@@ -16,5 +16,8 @@ let newName; //undefined and we can declare a variable without initilisition.
 
     do prefer to use let and const
 */
-
+// document.write(emailId)
 console.table([id,emailId,name,age,newName]); //print all variable value on console in table formate. 
+// console.error("this is an error");
+// console.warn("this is last warning");
+// console.assert(20<10);
